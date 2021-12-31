@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sozda\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sozda\\.nuget\\packages"
+    ]
+  }
+}
